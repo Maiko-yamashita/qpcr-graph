@@ -1,0 +1,43 @@
+﻿Color,Replicate Group,Sample Name,Gene Name,Condition Name,Ratio,Ratio Error,Normalized Ratio,Normalized Ratio Error,Scaled Ratio,Scaled Ratio Error,Cq Mean,Cq Error,Sample Type,Sample Type RQ,Gene Type,Condition Type,Excluded,Dye,Failure,Replicate Group Members,Number
+255;132;197;238,A1,STD1,ExoND1,,-,-,-,-,-,-,31.94,0.08,Standard,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A1, B1",1
+255;132;197;238,A2,STD0.1,ExoND1,,-,-,-,-,-,-,33.61,0.09,Standard,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A2, B2",2
+255;132;197;238,A3,STD0.01,ExoND1,,-,-,-,-,-,-,36.22,0,Standard,Unknown,Target,Unknown,Unchecked,SYBR Green I,Checked,"A3, B3",3
+255;250;215;15,A4,iPS,ExoND1,,1.20E-05,5.81E-06,-,6.86E-01,-,-,33.85,0.7,Unknown,Run Calibrator,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A4, B4",4
+255;250;215;15,A5,NMe4,ExoND1,,7.18E-02,4.72E-03,6.00E+03,2.94E+03,-,-,20.34,0.08,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A5, B5",5
+255;250;215;15,A6,NMe8,ExoND1,,9.33E-01,4.20E-01,7.79E+04,5.16E+04,-,-,16.45,0.53,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A6, B6",6
+255;250;215;15,A7,NMe19,ExoND1,,8.65E-01,3.13E-01,7.22E+04,4.37E+04,-,-,19.38,0.33,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A7, B7",7
+255;250;215;15,A8,NMe22,ExoND1,,1.07E+00,2.26E-01,8.95E+04,4.74E+04,-,-,16.44,0.25,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A8, B8",8
+255;250;215;15,A9,NMe28,ExoND1,,1.13E-01,1.21E-02,9.44E+03,4.69E+03,-,-,22.39,0.15,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A9, B9",9
+255;250;215;15,A10,NMe33,ExoND1,,2.77E+00,2.38E-01,2.31E+05,1.14E+05,-,-,17.4,0.06,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A10, B10",10
+255;250;215;15,A11,NMe34,ExoND1,,8.30E-02,1.69E-02,6.94E+03,3.65E+03,-,-,20.56,0.29,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A11, B11",11
+255;250;215;15,A12,NMe38,ExoND1,,9.25E+00,6.60E-01,7.73E+05,3.79E+05,-,-,14.67,0.1,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"A12, B12",12
+255;250;215;15,C1,NMe44,ExoND1,,1.51E+00,7.60E-02,1.26E+05,6.13E+04,-,-,19.17,0.04,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C1, D1",13
+255;250;215;15,C2,5TF,ExoND1,,5.09E-04,6.04E-05,4.25E+01,2.12E+01,-,-,28.16,0.13,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C2, D2",14
+255;132;197;238,C3,STD1,ExoMeis2,STD1,-,-,-,-,-,-,28.49,0.08,Standard,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C3, D3",15
+255;132;197;238,C4,STD0.1,ExoMeis2,STD0.1,-,-,-,-,-,-,31.94,0.23,Standard,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C4, D4",16
+255;132;197;238,C5,STD0.01,ExoMeis2,STD0.01,-,-,-,-,-,-,35.18,0.69,Standard,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C5, D5",17
+255;250;215;15,C6,iPS,ExoMeis2,,3.38E-06,3.08E-06,-,1.29E+00,-,-,35.67,1.32,Unknown,Run Calibrator,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C6, D6",18
+255;250;215;15,C7,NMe4,ExoMeis2,,1.76E-01,3.24E-02,5.21E+04,4.85E+04,-,-,19.05,0.26,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C7, D7",19
+255;250;215;15,C8,NMe8,ExoMeis2,,1.60E+00,6.83E-01,4.74E+05,4.77E+05,-,-,15.67,0.49,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C8, D8",20
+255;250;215;15,C9,NMe19,ExoMeis2,,1.77E+00,5.31E-01,5.24E+05,5.03E+05,-,-,18.34,0.16,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C9, D9",21
+255;250;215;15,C10,NMe22,ExoMeis2,,1.78E+00,4.73E-01,5.28E+05,5.01E+05,-,-,15.7,0.34,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C10, D10",22
+255;250;215;15,C11,NMe28,ExoMeis2,,5.78E-01,2.84E-02,1.71E+05,1.56E+05,-,-,20.03,0.06,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C11, D11",23
+255;250;215;15,C12,NMe33,ExoMeis2,,1.21E+00,2.80E-01,3.57E+05,3.36E+05,-,-,18.6,0.32,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"C12, D12",24
+255;250;215;15,E1,NMe34,ExoMeis2,,2.34E-03,3.64E-04,6.92E+02,6.40E+02,-,-,25.71,0.22,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"E1, F1",25
+255;250;215;15,E2,NMe38,ExoMeis2,,2.90E+00,7.10E-02,8.58E+05,7.82E+05,-,-,16.35,0.02,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"E2, F2",26
+255;250;215;15,E3,NMe44,ExoMeis2,,2.10E+00,7.98E-01,6.21E+05,6.14E+05,-,-,18.69,0.54,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"E3, F3",27
+255;250;215;15,E4,5TF,ExoMeis2,,4.94E-03,3.64E-04,1.46E+03,1.34E+03,-,-,24.88,0.01,Unknown,Unknown,Target,Unknown,Unchecked,SYBR Green I,Unchecked,"E4, F4",28
+255;132;197;238,E5,STD1,hGAPDH,,-,-,-,-,-,-,20.58,0.01,Standard,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"E5, F5",29
+255;132;197;238,E6,STD0.1,hGAPDH,,-,-,-,-,-,-,24.91,0.05,Standard,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"E6, F6",30
+255;132;197;238,E7,STD0.01,hGAPDH,,-,-,-,-,-,-,27.75,0.25,Standard,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"E7, F7",31
+255;250;215;15,E8,iPS,hGAPDH,,-,-,-,-,-,-,17.5,0.01,Unknown,Run Calibrator,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"E8, F8",32
+255;250;215;15,E9,NMe4,hGAPDH,,-,-,-,-,-,-,16.54,0.04,Unknown,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"E9, F9",33
+255;250;215;15,E10,NMe8,hGAPDH,,-,-,-,-,-,-,16.35,0.37,Unknown,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"E10, F10",34
+255;250;215;15,E11,NMe19,hGAPDH,,-,-,-,-,-,-,19.17,0.4,Unknown,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"E11, F11",35
+255;250;215;15,E12,NMe22,hGAPDH,,-,-,-,-,-,-,16.54,0.18,Unknown,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"E12, F12",36
+255;250;215;15,G1,NMe28,hGAPDH,,-,-,-,-,-,-,19.24,0.04,Unknown,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"G1, H1",37
+255;250;215;15,G2,NMe33,hGAPDH,,-,-,-,-,-,-,18.87,0.11,Unknown,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"G2, H2",38
+255;250;215;15,G3,NMe34,hGAPDH,,-,-,-,-,-,-,16.97,0.05,Unknown,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"G3, H3",39
+255;250;215;15,G4,NMe38,hGAPDH,,-,-,-,-,-,-,17.88,0.03,Unknown,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"G4, H4",40
+255;250;215;15,G5,NMe44,hGAPDH,,-,-,-,-,-,-,19.76,0.06,Unknown,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"G5, H5",41
+255;250;215;15,G6,5TF,hGAPDH,,-,-,-,-,-,-,17.22,0.11,Unknown,Unknown,Reference,Unknown,Unchecked,SYBR Green I,Unchecked,"G6, H6",42

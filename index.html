@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
+</head>
+<body>
+  <h2>Sample vs Normalized Ratio</h2>
+  <div id="graph"></div>
+  <script>
+    async function drawGraph() {
+      const response = await fetch('yourfile.csv');
+      const data = await response.text();
+      const rows = data.split('\n').slice(1);
+      const x = [], y = [];
+
+      for (let row of rows) {
+        const cols = row.split(',');
+        x.push(cols[2]); // Sample Name
+        y.push(parseFloat(cols[7])); // Normalized Ratio
+      }
+
+      const trace = {
+        x: x,
+        y: y,
+        type: 'bar'
+      };
+
+      const layout = {
+        title: 'Sample vs Normalized Ratio',
+        xaxis: { title: 'Sample Name' },
+        yaxis: { title: 'Normalized Ratio' }
+      };
+
+      Plotly.newPlot('graph', [trace], layout);
+    }
+
+    drawGraph();
+  </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
+</head>
+<body>
+  <h2>Sample vs Normalized Ratio</h2>
+  <div id="graph"></div>
+  <script>
+    async function drawGraph() {
+      const response = await fetch('yourfile.csv');
+      const data = await response.text();
+      const rows = data.split('\n').slice(1);
+      const x = [], y = [];
+
+      for (let row of rows) {
+        const cols = row.split(',');
+        x.push(cols[2]); // Sample Name
+        y.push(parseFloat(cols[7])); // Normalized Ratio
+      }
+
+      const trace = {
+        x: x,
+        y: y,
+        type: 'bar'
+      };
+
+      const layout = {
+        title: 'Sample vs Normalized Ratio',
+        xaxis: { title: 'Sample Name' },
+        yaxis: { title: 'Normalized Ratio' }
+      };
+
+      Plotly.newPlot('graph', [trace], layout);
+    }
+
+    drawGraph();
+  </script>
+</body>
+</html>
